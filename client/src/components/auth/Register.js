@@ -133,7 +133,7 @@ const Register = (props) => {
             </div>
           </div>
         </div>
-        <video
+        {/* <video
           autoPlay
           loop
           muted
@@ -143,7 +143,7 @@ const Register = (props) => {
             type='video/mp4'
           />
           Your browser does not support the video tag.
-        </video>
+        </video> */}
       </header>
     </>
   );
