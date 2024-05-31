@@ -17,6 +17,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^4.17.2",
     "mongoose": "^6.12.9",
+    "netlify": "^13.1.17",
     "nodemon": "^3.1.2",
     "postbuild": "^2.1.0",
     "scripts": "^0.1.0",
