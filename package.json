@@ -35,7 +35,7 @@
     "render-postbuild": "npm install --prefix client && npm run build --prefix client"
   },
   "engines": {
-    "node": "14.16.1"
+    "node": "20.x"
   },
   "author": "samyakjain",
   "license": "MIT"
